@@ -17,3 +17,9 @@ This repository contains beginner-level projects to demonstrate my learning in P
 - File: `sample_sql_queries.sql`
 - Tools: SQL  
 - Description: Creates a sample employees table and demonstrates basic SQL queries such as filtering and aggregation.
+
+## Project 4: AI Student Performance Prediction (Conceptual – Machine Learning)  
+- Tools: Python, Pandas, Scikit-learn  
+- Description: A sample machine learning script that demonstrates how a model can be trained to predict student performance based on study hours.  
+- Note: This is a conceptual example to show understanding of the basic AI/ML workflow including data preparation, model training, and prediction.
+
